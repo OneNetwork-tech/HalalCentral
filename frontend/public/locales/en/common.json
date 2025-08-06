@@ -1,0 +1,134 @@
+{
+  "site": {
+    "title": "HalalCentral",
+    "tagline": "Find halal restaurants, mosques, and Islamic services in Sweden",
+    "description": "The platform to find halal-certified restaurants, mosques, shops, and community services in Sweden"
+  },
+  "hero": {
+    "title": "Discover Halal in Sweden",
+    "subtitle": "Find authentic halal restaurants, mosques, and community services near you"
+  },
+  "search": {
+    "placeholder": "Search restaurants, shops, mosques...",
+    "location_placeholder": "Location (city, postal code)",
+    "button": "Search"
+  },
+  "categories": {
+    "restaurants": "Restaurants",
+    "mosques": "Mosques",
+    "shops": "Shops",
+    "community": "Community"
+  },
+  "sections": {
+    "featured_vendors": "Featured Businesses",
+    "nearby_institutes": "Nearby Mosques & Institutions"
+  },
+  "status": {
+    "open_now": "Open now",
+    "verified": "Verified"
+  },
+  "features": {
+    "delivery_available": "Delivery Available",
+    "qr_ordering": "QR Menu"
+  },
+  "business_types": {
+    "restaurant": "Restaurant",
+    "grocery_store": "Grocery Store",
+    "butcher": "Butcher",
+    "bakery": "Bakery",
+    "catering": "Catering",
+    "food_truck": "Food Truck"
+  },
+  "prayer_times": {
+    "today": "Today's Prayer Times",
+    "fajr": "Fajr",
+    "dhuhr": "Dhuhr",
+    "asr": "Asr",
+    "maghrib": "Maghrib",
+    "isha": "Isha",
+    "jumma": "Jumma"
+  },
+  "reviews": {
+    "reviews": "reviews"
+  },
+  "navigation": {
+    "home": "Home",
+    "restaurants": "Restaurants",
+    "mosques": "Mosques",
+    "shops": "Shops",
+    "community": "Community"
+  },
+  "pages": {
+    "restaurants": {
+      "description": "Find the best halal restaurants in Sweden",
+      "subtitle": "Discover authentic halal restaurants near you",
+      "no_restaurants": "No restaurants found"
+    },
+    "mosques": {
+      "description": "Find mosques and Islamic centers in Sweden",
+      "subtitle": "Discover mosques and Islamic centers near you",
+      "no_mosques": "No mosques found"
+    },
+    "shops": {
+      "description": "Find halal shops, butchers, and bakeries in Sweden",
+      "subtitle": "Discover halal shops near you",
+      "no_shops": "No shops found"
+    },
+    "community": {
+      "description": "Community services and events for the Muslim community in Sweden",
+      "subtitle": "Connect with others in the Muslim community in Sweden",
+      "resources_title": "Our Resources",
+      "resource_mosques": "Mosques",
+      "resource_mosques_desc": "Find mosques and Islamic centers in your area",
+      "explore_mosques": "Explore mosques",
+      "resource_restaurants": "Restaurants",
+      "resource_restaurants_desc": "Discover authentic halal restaurants",
+      "explore_restaurants": "Explore restaurants",
+      "resource_shops": "Shops",
+      "resource_shops_desc": "Find halal shops, butchers, and bakeries",
+      "explore_shops": "Explore shops",
+      "cta_title": "Become part of the community",
+      "cta_description": "Register your business or participate in community events",
+      "register_business": "Register Business",
+      "contact_us": "Contact Us"
+    }
+  },
+  "community": {
+    "events": {
+      "title": "Events",
+      "description": "Discover community events near you"
+    },
+    "jobs": {
+      "title": "Jobs",
+      "description": "Find jobs within the Muslim community"
+    },
+    "volunteer": {
+      "title": "Volunteer",
+      "description": "Contribute to your local Muslim community"
+    },
+    "education": {
+      "title": "Education",
+      "description": "Islamic education programs and courses"
+    }
+  },
+  "cta": {
+    "title": "Want to reach more customers?",
+    "description": "Register your halal business on HalalCentral",
+    "register_business": "Register Business",
+    "learn_more": "Learn More"
+  },
+  "footer": {
+    "description": "The platform to find halal-certified restaurants, mosques, shops, and community services in Sweden",
+    "for_businesses": "For Businesses",
+    "register_business": "Register Business",
+    "business_benefits": "Business Benefits",
+    "pricing": "Pricing",
+    "for_users": "For Users",
+    "company": "Company",
+    "about": "About Us",
+    "contact": "Contact",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "all_rights_reserved": "All rights reserved"
+  }
+}

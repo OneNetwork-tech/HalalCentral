@@ -1,0 +1,134 @@
+{
+  "site": {
+    "title": "HalalCentral",
+    "tagline": "ابحث عن مطاعم حلال، مساجد، وخدمات إسلامية في السويد",
+    "description": "المنصة للعثور على مطاعم معتمدة حلال، مساجد، متاجر، وخدمات مجتمعية في السويد"
+  },
+  "hero": {
+    "title": "اكتشف الحلال في السويد",
+    "subtitle": "ابحث عن مطاعم حلال أصيلة، مساجد، وخدمات مجتمعية قريبة منك"
+  },
+  "search": {
+    "placeholder": "ابحث عن مطاعم، متاجر، مساجد...",
+    "location_placeholder": "الموقع (مدينة، رمز بريدي)",
+    "button": "بحث"
+  },
+  "categories": {
+    "restaurants": "مطاعم",
+    "mosques": "مساجد",
+    "shops": "متاجر",
+    "community": "مجتمع"
+  },
+  "sections": {
+    "featured_vendors": "الشركات المميزة",
+    "nearby_institutes": "المساجد والمؤسسات القريبة"
+  },
+  "status": {
+    "open_now": "مفتوح الآن",
+    "verified": "موثق"
+  },
+  "features": {
+    "delivery_available": "توصيل متاح",
+    "qr_ordering": "قائمة QR"
+  },
+  "business_types": {
+    "restaurant": "مطعم",
+    "grocery_store": "متجر بقالة",
+    "butcher": "جزار",
+    "bakery": "مخبز",
+    "catering": "تقديم الطعام",
+    "food_truck": "عربة طعام"
+  },
+  "prayer_times": {
+    "today": "أوقات الصلاة اليوم",
+    "fajr": "الفجر",
+    "dhuhr": "الظهر",
+    "asr": "العصر",
+    "maghrib": "المغرب",
+    "isha": "العشاء",
+    "jumma": "الجمعة"
+  },
+  "reviews": {
+    "reviews": "مراجعات"
+  },
+  "navigation": {
+    "home": "الرئيسية",
+    "restaurants": "مطاعم",
+    "mosques": "مساجد",
+    "shops": "متاجر",
+    "community": "مجتمع"
+  },
+  "pages": {
+    "restaurants": {
+      "description": "ابحث عن أفضل المطاعم الحلال في السويد",
+      "subtitle": "اكتشف المطاعم الحلال الأصيلة القريبة منك",
+      "no_restaurants": "لم يتم العثور على مطاعم"
+    },
+    "mosques": {
+      "description": "ابحث عن مساجد ومراكز إسلامية في السويد",
+      "subtitle": "اكتشف المساجد والمراكز الإسلامية القريبة منك",
+      "no_mosques": "لم يتم العثور على مساجد"
+    },
+    "shops": {
+      "description": "ابحث عن متاجر حلال، وجزارات، ومخابز في السويد",
+      "subtitle": "اكتشف المتاجر الحلال القريبة منك",
+      "no_shops": "لم يتم العثور على متاجر"
+    },
+    "community": {
+      "description": "خدمات وفعاليات مجتمعية للمجتمع المسلم في السويد",
+      "subtitle": "تواصل مع الآخرين في المجتمع المسلم في السويد",
+      "resources_title": "مواردنا",
+      "resource_mosques": "مساجد",
+      "resource_mosques_desc": "ابحث عن مساجد ومراكز إسلامية في منطقتك",
+      "explore_mosques": "استكشف المساجد",
+      "resource_restaurants": "مطاعم",
+      "resource_restaurants_desc": "اكتشف المطاعم الحلال الأصيلة",
+      "explore_restaurants": "استكشف المطاعم",
+      "resource_shops": "متاجر",
+      "resource_shops_desc": "ابحث عن متاجر حلال، وجزارات، ومخابز",
+      "explore_shops": "استكشف المتاجر",
+      "cta_title": "كن جزءاً من المجتمع",
+      "cta_description": "سجل عملك أو شارك في فعاليات المجتمع",
+      "register_business": "سجل عملك",
+      "contact_us": "اتصل بنا"
+    }
+  },
+  "community": {
+    "events": {
+      "title": "فعاليات",
+      "description": "اكتشف فعاليات المجتمع القريبة منك"
+    },
+    "jobs": {
+      "title": "وظائف",
+      "description": "ابحث عن وظائف داخل المجتمع المسلم"
+    },
+    "volunteer": {
+      "title": "تطوع",
+      "description": "ساهم في مجتمعك المسلم المحلي"
+    },
+    "education": {
+      "title": "تعليم",
+      "description": "برامج ودورات تعليمية إسلامية"
+    }
+  },
+  "cta": {
+    "title": "هل تريد الوصول إلى المزيد من العملاء؟",
+    "description": "سجل عملك الحلال في HalalCentral",
+    "register_business": "سجل عملك",
+    "learn_more": "اعرف المزيد"
+  },
+  "footer": {
+    "description": "المنصة للعثور على مطاعم معتمدة حلال، مساجد، متاجر، وخدمات مجتمعية في السويد",
+    "for_businesses": "للشركات",
+    "register_business": "سجل عملك",
+    "business_benefits": "فوائد العمل",
+    "pricing": "التسعير",
+    "for_users": "للمستخدمين",
+    "company": "الشركة",
+    "about": "معلومات عنا",
+    "contact": "اتصل بنا",
+    "privacy": "سياسة الخصوصية",
+    "terms": "شروط الخدمة",
+    "all_rights_reserved": "جميع الحقوق محفوظة"
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "site": {
+    "title": "HalalCentral",
+    "tagline": "Hitta halal-restauranger, moskéer och muslimska tjänster i Sverige",
+    "description": "Plattformen för att hitta halal-certifierade restauranger, moskéer, butiker och communitytjänster i Sverige"
+  },
+  "hero": {
+    "title": "Upptäck halal i Sverige",
+    "subtitle": "Hitta autentiska halal-restauranger, moskéer och communitytjänster nära dig"
+  },
+  "search": {
+    "placeholder": "Sök restauranger, butiker, moskéer...",
+    "location_placeholder": "Plats (stad, postnummer)",
+    "button": "Sök"
+  },
+  "categories": {
+    "restaurants": "Restauranger",
+    "mosques": "Moskéer",
+    "shops": "Butiker",
+    "community": "Gemenskap"
+  },
+  "sections": {
+    "featured_vendors": "Utvalda Erbjudanden",
+    "nearby_institutes": "Närliggande Moskéer & Institutioner"
+  },
+  "status": {
+    "open_now": "Öppet nu",
+    "verified": "Verifierad"
+  },
+  "features": {
+    "delivery_available": "Hemleverans",
+    "qr_ordering": "QR-meny"
+  },
+  "business_types": {
+    "restaurant": "Restaurang",
+    "grocery_store": "Livsmedelsbutik",
+    "butcher": "Slakteri",
+    "bakery": "Bageri",
+    "catering": "Catering",
+    "food_truck": "Food Truck"
+  },
+  "prayer_times": {
+    "today": "Dagens bönertider",
+    "fajr": "Fajr",
+    "dhuhr": "Dhuhr",
+    "asr": "Asr",
+    "maghrib": "Maghrib",
+    "isha": "Isha",
+    "jumma": "Jumma"
+  },
+  "reviews": {
+    "reviews": "recensioner"
+  },
+  "navigation": {
+    "home": "Hem",
+    "restaurants": "Restauranger",
+    "mosques": "Moskéer",
+    "shops": "Butiker",
+    "community": "Gemenskap"
+  },
+  "pages": {
+    "restaurants": {
+      "description": "Hitta de bästa halal-restaurangerna i Sverige",
+      "subtitle": "Upptäck autentiska halal-restauranger nära dig",
+      "no_restaurants": "Inga restauranger hittades"
+    },
+    "mosques": {
+      "description": "Hitta moskéer och islamiska centra i Sverige",
+      "subtitle": "Upptäck moskéer och islamiska centra nära dig",
+      "no_mosques": "Inga moskéer hittades"
+    },
+    "shops": {
+      "description": "Hitta halal-butiker, slakterier och bagerier i Sverige",
+      "subtitle": "Upptäck halal-butiker nära dig",
+      "no_shops": "Inga butiker hittades"
+    },
+    "community": {
+      "description": "Communitytjänster och evenemang för den muslimska gemenskapen i Sverige",
+      "subtitle": "Anslut med andra i den muslimska gemenskapen i Sverige",
+      "resources_title": "Våra Resurser",
+      "resource_mosques": "Moskéer",
+      "resource_mosques_desc": "Hitta moskéer och islamiska centra i ditt område",
+      "explore_mosques": "Utforska moskéer",
+      "resource_restaurants": "Restauranger",
+      "resource_restaurants_desc": "Upptäck autentiska halal-restauranger",
+      "explore_restaurants": "Utforska restauranger",
+      "resource_shops": "Butiker",
+      "resource_shops_desc": "Hitta halal-butiker, slakterier och bagerier",
+      "explore_shops": "Utforska butiker",
+      "cta_title": "Bli en del av gemenskapen",
+      "cta_description": "Registrera din verksamhet eller delta i communityevenemang",
+      "register_business": "Registrera verksamhet",
+      "contact_us": "Kontakta oss"
+    }
+  },
+  "community": {
+    "events": {
+      "title": "Evenemang",
+      "description": "Upptäck communityevenemang nära dig"
+    },
+    "jobs": {
+      "title": "Jobb",
+      "description": "Hitta jobb inom den muslimska gemenskapen"
+    },
+    "volunteer": {
+      "title": "Volontärarbete",
+      "description": "Bidra till din lokala muslimska gemenskap"
+    },
+    "education": {
+      "title": "Utbildning",
+      "description": "Islamska utbildningsprogram och kurser"
+    }
+  },
+  "cta": {
+    "title": "Vill du nå fler kunder?",
+    "description": "Registrera din halal-verksamhet på HalalCentral",
+    "register_business": "Registrera verksamhet",
+    "learn_more": "Läs mer"
+  },
+  "footer": {
+    "description": "Plattformen för att hitta halal-certifierade restauranger, moskéer, butiker och communitytjänster i Sverige",
+    "for_businesses": "För företag",
+    "register_business": "Registrera verksamhet",
+    "business_benefits": "Fördelar för företag",
+    "pricing": "Prissättning",
+    "for_users": "För användare",
+    "company": "Företag",
+    "about": "Om oss",
+    "contact": "Kontakt",
+    "privacy": "Integritetspolicy",
+    "terms": "Användarvillkor",
+    "all_rights_reserved": "Alla rättigheter förbehållna"
+  }
+}

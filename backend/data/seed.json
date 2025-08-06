@@ -1,0 +1,119 @@
+{
+  "vendors": [
+    {
+      "id": "vendor-1",
+      "name": {
+        "sv": "Al-Salam Restaurang",
+        "en": "Al-Salam Restaurant",
+        "ar": "مطعم السلام"
+      },
+      "description": {
+        "sv": "Autentisk mellanöstern mat i hjärtat av Stockholm",
+        "en": "Authentic Middle Eastern cuisine in the heart of Stockholm",
+        "ar": "مأكولات شرق أوسطية أصيلة في قلب ستوكهولم"
+      },
+      "address": {
+        "street": "Drottninggatan 45",
+        "city": "Stockholm",
+        "postal_code": "11122",
+        "county": "Stockholm",
+        "country": "Sweden"
+      },
+      "contact_info": {
+        "phone": "08-123 45 67",
+        "email": "info@alsalam.se",
+        "website": "https://alsalam.se"
+      },
+      "is_verified": true,
+      "business_type": "restaurant",
+      "cuisine_types": ["middle_eastern", "lebanese"],
+      "dietary_options": {
+        "halal": true,
+        "vegetarian": true,
+        "vegan": false,
+        "gluten_free": true
+      },
+      "delivery_available": true,
+      "commission_rate": 0.05
+    },
+    {
+      "id": "vendor-2",
+      "name": {
+        "sv": "Halal Kött & Delikatesser",
+        "en": "Halal Meat & Delicatessen",
+        "ar": "لحوم حلال ومأكولات شهية"
+      },
+      "description": {
+        "sv": "Färskt halalkött och specialiteter från hela världen",
+        "en": "Fresh halal meat and specialties from around the world",
+        "ar": "لحوم حلال طازجة وتخصصات من جميع أنحاء العالم"
+      },
+      "address": {
+        "street": "Götgatan 78",
+        "city": "Stockholm",
+        "postal_code": "11830",
+        "county": "Stockholm",
+        "country": "Sweden"
+      },
+      "contact_info": {
+        "phone": "08-234 56 78",
+        "email": "info@halalkott.se",
+        "website": "https://halalkott.se"
+      },
+      "is_verified": true,
+      "business_type": "butcher",
+      "dietary_options": {
+        "halal": true,
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      },
+      "delivery_available": false,
+      "commission_rate": 0.03
+    }
+  ],
+  "institutes": [
+    {
+      "id": "institute-1",
+      "name": {
+        "sv": "Stockholms Islamiska Centrum",
+        "en": "Stockholm Islamic Center",
+        "ar": "المركز الإسلامي في ستوكهولم"
+      },
+      "description": {
+        "sv": "Huvudmoskén i Stockholm med utbildningsprogram och samhällstjänster",
+        "en": "Main mosque in Stockholm with educational programs and community services",
+        "ar": "المسجد الرئيسي في ستوكهولم مع البرامج التعليمية والخدمات المجتمعية"
+      },
+      "address": {
+        "street": "Kapellgränd 10",
+        "city": "Stockholm",
+        "postal_code": "11625",
+        "county": "Stockholm",
+        "country": "Sweden"
+      },
+      "contact_info": {
+        "phone": "08-345 67 89",
+        "email": "info@islamiccenter.se",
+        "website": "https://islamiccenter.se"
+      },
+      "is_verified": true,
+      "institute_type": "mosque",
+      "prayer_schedule": {
+        "fajr": "05:30",
+        "dhuhr": "12:30",
+        "asr": "15:45",
+        "maghrib": "17:30",
+        "isha": "19:15",
+        "jumma": "13:00"
+      },
+      "capacity": 500,
+      "services": {
+        "prayer_times": true,
+        "friday_prayers": true,
+        "educational_programs": true,
+        "community_events": true
+      }
+    }
+  ]
+}

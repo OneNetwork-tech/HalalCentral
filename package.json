@@ -1,0 +1,37 @@
+{
+  "name": "halalcentral-platform",
+  "version": "1.0.0",
+  "description": "Multilingual Multi-Vendor Halal Platform for Sweden",
+  "main": "index.js",
+  "scripts": {
+    "setup": "npm run setup:backend && npm run setup:frontend",
+    "setup:backend": "cd backend && npm install",
+    "setup:frontend": "cd frontend && npm install",
+    "dev": "concurrently \"npm run dev:backend\" \"npm run dev:frontend\"",
+    "dev:backend": "cd backend && npm run dev",
+    "dev:frontend": "cd frontend && npm run dev",
+    "build": "npm run build:backend && npm run build:frontend",
+    "build:backend": "cd backend && npm run build",
+    "build:frontend": "cd frontend && npm run build",
+    "start": "concurrently \"npm run start:backend\" \"npm run start:frontend\"",
+    "start:backend": "cd backend && npm start",
+    "start:frontend": "cd frontend && npm start"
+  },
+  "keywords": [
+    "halal",
+    "medusa",
+    "nextjs",
+    "multilingual",
+    "sweden",
+    "ecommerce"
+  ],
+  "author": "HalalCentral Team",
+  "license": "MIT",
+  "devDependencies": {
+    "concurrently": "^8.2.2",
+    "ts-node": "^10.9.2"
+  },
+  "dependencies": {
+    "@medusajs/cache-inmemory": "^2.8.7"
+  }
+}
